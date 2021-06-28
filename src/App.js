@@ -3,7 +3,6 @@ import './App.css';
 import { BrowserRouter, Switch, Route } from "react-router-dom";
 import Topbar from './components/Topbar';
 import Home from './components/Home';
-import PageNotFound from './components/PageNotFound';
 import ProductDetails from './components/ProductDetails';
 import Cart from './components/Cart';
 import OrderConform from './components/Order';
@@ -21,7 +20,7 @@ function App() {
       <Route path="/signin" component={SignIn} />
       <Route path="/signup" component={SignUp} />
       <Route path="/order" component={OrderConform} />
-      <Route component={PageNotFound} />
+      <Route component={() => <h1 style={{marginTop: "100px"}}>404: Page Not Found</h1>} />
     </Switch>
     </BrowserRouter>
  
