@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-shoplan-app/static/css/main.517be98c.chunk.css",
+    "main.js": "/react-shoplan-app/static/js/main.a11c3e28.chunk.js",
+    "main.js.map": "/react-shoplan-app/static/js/main.a11c3e28.chunk.js.map",
+    "runtime-main.js": "/react-shoplan-app/static/js/runtime-main.eba1ba75.js",
+    "runtime-main.js.map": "/react-shoplan-app/static/js/runtime-main.eba1ba75.js.map",
+    "static/css/2.06aa010b.chunk.css": "/react-shoplan-app/static/css/2.06aa010b.chunk.css",
+    "static/js/2.bc03d3b3.chunk.js": "/react-shoplan-app/static/js/2.bc03d3b3.chunk.js",
+    "static/js/2.bc03d3b3.chunk.js.map": "/react-shoplan-app/static/js/2.bc03d3b3.chunk.js.map",
+    "static/js/3.01606909.chunk.js": "/react-shoplan-app/static/js/3.01606909.chunk.js",
+    "static/js/3.01606909.chunk.js.map": "/react-shoplan-app/static/js/3.01606909.chunk.js.map",
+    "index.html": "/react-shoplan-app/index.html",
+    "static/css/2.06aa010b.chunk.css.map": "/react-shoplan-app/static/css/2.06aa010b.chunk.css.map",
+    "static/css/main.517be98c.chunk.css.map": "/react-shoplan-app/static/css/main.517be98c.chunk.css.map",
+    "static/js/2.bc03d3b3.chunk.js.LICENSE.txt": "/react-shoplan-app/static/js/2.bc03d3b3.chunk.js.LICENSE.txt",
+    "static/media/slick-theme.css": "/react-shoplan-app/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eba1ba75.js",
+    "static/css/2.06aa010b.chunk.css",
+    "static/js/2.bc03d3b3.chunk.js",
+    "static/css/main.517be98c.chunk.css",
+    "static/js/main.a11c3e28.chunk.js"
+  ]
+}
