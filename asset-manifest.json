@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-shoplan-app/static/css/main.296e7e4c.chunk.css",
-    "main.js": "/react-shoplan-app/static/js/main.92696ac2.chunk.js",
-    "main.js.map": "/react-shoplan-app/static/js/main.92696ac2.chunk.js.map",
+    "main.js": "/react-shoplan-app/static/js/main.d31930a2.chunk.js",
+    "main.js.map": "/react-shoplan-app/static/js/main.d31930a2.chunk.js.map",
     "runtime-main.js": "/react-shoplan-app/static/js/runtime-main.eba1ba75.js",
     "runtime-main.js.map": "/react-shoplan-app/static/js/runtime-main.eba1ba75.js.map",
     "static/css/2.06aa010b.chunk.css": "/react-shoplan-app/static/css/2.06aa010b.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.06aa010b.chunk.css",
     "static/js/2.bc03d3b3.chunk.js",
     "static/css/main.296e7e4c.chunk.css",
-    "static/js/main.92696ac2.chunk.js"
+    "static/js/main.d31930a2.chunk.js"
   ]
 }
